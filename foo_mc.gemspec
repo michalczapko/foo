@@ -1,7 +1,8 @@
 Gem::Specification.new do |s|
   s.authors = ['Simply Business']
-  s.name = %q{foo}
-  s.version = "0.0.0"
+  s.email = ['mczapko@gmail.com']
+  s.name = %q{foo_mc}
+  s.version = "0.0.1"
   s.date = %q{2019-04-17}
   s.summary = %q{Just a foo}
   s.files = [

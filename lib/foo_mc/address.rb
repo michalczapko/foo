@@ -1,4 +1,4 @@
-module Foo
+module FooMc
   module Address
     extend self
 
