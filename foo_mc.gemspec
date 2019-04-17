@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.date = %q{2019-04-17}
   s.summary = %q{Just a foo}
   s.files = [
-    "lib/foo.rb",
-    "lib/foo/address.rb"
+    "lib/foo_mc.rb",
+    "lib/foo_mc/address.rb"
   ]
   s.require_paths = ["lib"]
 end
